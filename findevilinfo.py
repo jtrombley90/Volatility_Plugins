@@ -4,7 +4,7 @@ __version__ = "0.1"
 __license__ = "MIT"
 
 # Yara Rules Directory
-YARA_RULES_DIR = "INSERT_YARA_RULES_DIR_HERE"
+YARA_RULES_DIR = "~/Yara_Rules"
 
 # VirusTotal API
 # https://www.virustotal.com/en/user/<username>/apikey/
